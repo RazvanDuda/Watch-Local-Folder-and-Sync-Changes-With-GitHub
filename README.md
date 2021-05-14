@@ -1,15 +1,15 @@
 # Watch-Local-Folder-and-Sync-Changes-With-GitHub tested on Fedora 33
 
-1. Publish a single file for linux in .NET5:
-    dotnet publish -c Release -o publish -r linux-x64 /p:PublishSingleFile=true --self-contained true -p:IncludeNativeLibrariesForSelfExtract=true
+##1. Publish a single file for linux in .NET5:
+    -dotnet publish -c Release -o publish -r linux-x64 /p:PublishSingleFile=true --self-contained true -p:IncludeNativeLibrariesForSelfExtract=true
     
-2. Copy the executable "FOLDER_GIT_PUSH" from "publish" folder to your destination folder for file monitoring.
+##2. Copy the executable "FOLDER_GIT_PUSH" from "publish" folder to your destination folder for file monitoring.
 
-3. Provide permissions to the executable:
-   sudo chmod +x FOLDER_GIT_PUSH
+##3. Provide permissions to the executable:
+    -sudo chmod +x FOLDER_GIT_PUSH
    
-4. Install git in Fedora 33:
-   sudo dnf -y install git
+##4. Install git in Fedora 33:
+    -sudo dnf -y install git
    
 5. Clone your ripo from GitHub.
     git clone URL
