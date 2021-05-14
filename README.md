@@ -3,7 +3,7 @@
 1. Publish a single file for linux in .NET5:
     dotnet publish -c Release -o publish -r linux-x64 /p:PublishSingleFile=true --self-contained true -p:IncludeNativeLibrariesForSelfExtract=true
     
-2. Copy the executable "FOLDER_GIT_PUSH" and the config file "appsettings.json" from "publish" folder to your destination folder for file monitoring.
+2. Copy the executable "FOLDER_GIT_PUSH" from "publish" folder to your destination folder for file monitoring.
 
 3. Provide permissions to the executable:
    sudo chmod +x FOLDER_GIT_PUSH
@@ -29,7 +29,7 @@
    git commit -am "File Changed"
    git push origin main --force
    
- 9. Update the config file "appsettings.json" example:
+ 9. Create the config file "appsettings.json" example:
     {
        "FolderToWatcher": "/home/dev/www/",
        "FilterForFileExtension": "html"
