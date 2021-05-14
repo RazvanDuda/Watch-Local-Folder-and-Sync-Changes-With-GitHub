@@ -32,8 +32,7 @@
  9. Update the config file "appsettings.json" example:
     {
        "FolderToWatcher": "/home/dev/www/",
-       "FilterForFileExtension": "html",
-       "ShellScriptName": "git.sh"
+       "FilterForFileExtension": "html"
     }
      
 10. Run the Application from inside the destination folder for file monitoring. 
