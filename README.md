@@ -16,7 +16,7 @@
     ```
     sudo dnf -y install git
     ```
-5. Clone your ripo from GitHub.
+5. Clone your repo from GitHub.
    ```
    git clone URL
    ```
