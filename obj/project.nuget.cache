@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "bavwf6r+n1nFaqpSAnpwxjD0SqEvgPrHXnENmj7G4yyrAK9OGZJJcW3g3VPdSNR9I+DsAmXD6gek72j+DCOi3w==",
+  "success": true,
+  "projectFilePath": "/home/dev/C#/FOLDER_GIT_PUSH/FOLDER_GIT_PUSH.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/5.0.5/microsoft.netcore.app.runtime.linux-x64.5.0.5.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/5.0.5/microsoft.aspnetcore.app.runtime.linux-x64.5.0.5.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.5/microsoft.netcore.app.host.linux-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
